@@ -8,13 +8,19 @@ using System.Text;
 
 namespace computer_1
 {
+
     class Program
+    
     {
+    
         static void Main(string[] args)
+        
         {
+        
             int x, y;
             char z;
             try
+            
             {
                 Console.WriteLine("请输入第一个数字");
                 x = int.Parse(Console.ReadLine());
